@@ -1,0 +1,10 @@
+fec22a4dbed9c685b43214e0dfb41ca8 *DESCRIPTION
+b707d485ef15847bd1e23dd6ab73fb0b *NAMESPACE
+dccbf214e8254d9fb30c4e57b74e8751 *R/gp.mle.R
+7db5f100584fc45098cdb8ac4f1dc8ac *R/gp.reg.R
+7c4ff0620b99fe89150e47809790aef0 *R/gp.reg2.R
+9eefd81748ea8ac724d4c4dd526700a3 *R/rgp.R
+552a18846f4ae13f757f41a9e5d5efd2 *man/gp-package.Rd
+45f7892b7b207243f1eb3a8b01eab68d *man/gp.mle.Rd
+9591ceb89a3f68e8d7129b3bdf009d92 *man/gp.reg.Rd
+3cc340ef93443a05002d1afcb80285cb *man/rgp.Rd
